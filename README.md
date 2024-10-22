@@ -15,20 +15,11 @@ Soy Mariana Rueda, una programadora y desarrolladora de software colombiana. Me 
 
 ![](https://img.icons8.com/color/48/000000/html-5--v1.png)
 ![](https://img.icons8.com/color/48/000000/css3.png)
-![](https://img.icons8.com/color/48/000000/sass.png)
 ![](https://img.icons8.com/color/48/000000/javascript--v1.png)
-![](https://img.icons8.com/office/48/000000/react.png)
-![](https://img.icons8.com/color/48/000000/nextjs.png)
-
 ![](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)
-![](https://img.icons8.com/officel/48/000000/php-logo.png)
-![](https://img.icons8.com/fluency/48/000000/laravel.png)
-![](https://img.icons8.com/fluency/48/000000/wordpress.png)
-
 ![](https://img.icons8.com/color/48/000000/mysql-logo.png)
 ![](https://img.icons8.com/color/48/000000/mongodb.png)
 ![](https://img.icons8.com/color/48/000000/firebase.png)
-
 ![](https://img.icons8.com/color/48/000000/npm.png)
 
 </div>
