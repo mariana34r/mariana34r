@@ -30,7 +30,7 @@ Soy Mariana Rueda, una programadora y desarrolladora de software colombiana. Me 
 
 <br>
 
-[![@mariana34r](https://img.icons8.com/fluency/48/000000/instagram-new.png "@mariana_florez288")](https://www.instagram.com/mariana_florez288/) [![@mariana34r](https://img.icons8.com/fluency/48/000000/facebook.png "@mariana34r")](https://web.facebook.com/mariana.ruedaflorez.9/?locale=es_LA) [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/anushkawijegoonawardana97/) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
+[![@mariana34r](https://img.icons8.com/fluency/48/000000/instagram-new.png "@mariana_florez288")](https://www.instagram.com/mariana_florez288/) [![@mariana34r](https://img.icons8.com/fluency/48/000000/facebook.png "@mariana34r")](https://web.facebook.com/mariana.ruedaflorez.9/?locale=es_LA) [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/anushkawijegoonawardana97/)[![@3102630386](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@3102630386")](tel:3102630386) [![@cesaraugustoruedarangel@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@cesaraugustoruedarangel@gmail.com")](cesaraugustoruedarangel@gmail.com)
 
 <br>
 
