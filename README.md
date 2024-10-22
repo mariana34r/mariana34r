@@ -28,7 +28,7 @@ Soy Mariana Rueda, una programadora y desarrolladora de software colombiana. Me 
 
 <br>
 
-[![@mariana34r](https://img.icons8.com/fluency/48/000000/instagram-new.png "@mariana_florez288")](https://www.instagram.com/mariana_florez288/) [![@mariana34r](https://img.icons8.com/fluency/48/000000/facebook.png "@mariana34r")](https://web.facebook.com/mariana.ruedaflorez.9/?locale=es_LA) [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/anushkawijegoonawardana97/)[![@3102630386](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@3102630386")](tel:3102630386) [![@cesaraugustoruedarangel@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@cesaraugustoruedarangel@gmail.com")](cesaraugustoruedarangel@gmail.com)
+[![@mariana34r](https://img.icons8.com/fluency/48/000000/instagram-new.png "@mariana_florez288")](https://www.instagram.com/mariana_florez288/) [![@mariana34r](https://img.icons8.com/fluency/48/000000/facebook.png "@mariana34r")](https://web.facebook.com/mariana.ruedaflorez.9/?locale=es_LA) [![@marianaruedaflorez](https://img.icons8.com/fluency/48/000000/linkedin.png "@marianaruedaflorez")](https://www.linkedin.com/in/mariana-rueda-fl%C3%B3rez-558a92334/)[![@3102630386](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@3102630386")](tel:3102630386) [![@cesaraugustoruedarangel@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@cesaraugustoruedarangel@gmail.com")](cesaraugustoruedarangel@gmail.com)
 
 <br>
 
