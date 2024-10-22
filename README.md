@@ -2,12 +2,12 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/AnushkaWijegoonawardana97?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/AnushkaWijegoonawardana97?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=AnushkaWijegoonawardana97.repoName) <img src="https://komarev.com/ghpvc/?username=AnushkaWijegoonawardana97" alt="AnushkaWijegoonawardana97" />
 
-## Sobre mi :
+## Sobre mi 🧑‍💻 :
 
 Soy Mariana Rueda, una programadora y desarrolladora de software colombiana. Me encanta la tecnología y la innovación. He trabajado en distintos entornos de desarrollo y tengo experiencia en varios lenguajes y frameworks.
 
 
-## Habilidades 🧑‍💻 :
+## Habilidades 🎮 :
 
 <br>
 
