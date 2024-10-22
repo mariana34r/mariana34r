@@ -28,7 +28,7 @@ Soy Mariana Rueda, una programadora y desarrolladora de software colombiana. Me 
 
 <br>
 
-## Connect with me ☕ :
+## Contactame ☕ :
 
 <br>
 
