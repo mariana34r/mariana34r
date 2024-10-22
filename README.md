@@ -12,14 +12,12 @@ Soy Mariana Rueda, una programadora y desarrolladora de software colombiana. Me 
 <br>
 
 <div align="center">
-
 ![](https://img.icons8.com/color/48/000000/html-5--v1.png)
 ![](https://img.icons8.com/color/48/000000/css3.png)
 ![](https://img.icons8.com/color/48/000000/javascript--v1.png)
 ![](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)
 ![](https://img.icons8.com/color/48/000000/mysql-logo.png)
 ![](https://img.icons8.com/color/48/000000/mongodb.png)
-
 </div>
 
 <br>
